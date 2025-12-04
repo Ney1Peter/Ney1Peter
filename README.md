@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ney1Peter/Ney1Peter/output/dist/github-snake-dark.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ney1Peter/Ney1Peter/output/dist/github-snake.svg" />
+</picture>
+
+
